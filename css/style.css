@@ -15,7 +15,7 @@ body {
 }
 
 h1{
-    font-family:Fantasy,serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight:bolder;
     text-transform:uppercase;
     color:#343a40}
@@ -31,7 +31,7 @@ h3,h4,h5,h6{
     color:#343a40}
 
 h1 {
-    font-size:3.5rem;
+    font-size:5.0rem;
     line-height:5.5rem
 }
 
